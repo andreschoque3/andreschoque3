@@ -1,5 +1,4 @@
-# 💫 About Me:
-# hi 
+# Andres Choque 
 
 
 ## 🌐 Socials:
