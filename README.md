@@ -2,7 +2,8 @@
 
 **`Junior Software Engineer`**
 
-I'm a Junior Software Developer with a passion for technology, business, travel, and leadership. I gained experience in software development through CREOTEC (2021), Samaritan's Purse (2022) and Liberty University (2023). My experience is in building Websites 💻 and Web Apps 📲 using MERN stack. I have vast international experience through travel and adapting in different cultural environments such as the Middle East, South America, and North America. I am proficient in bilingual communication in English and Spanish. 
+As a Junior Software Engineer, I bring a passion for technology, business, travel, and leadership. With hands-on experience in software development, with CyberZek and private clients, I've delivered impactful designs and web applications 💻📱. My journey has taken me across the Middle East, South America, and North America, providing a rich perspective. Fluent in both Spanish and English. I hold a Bachelor's degree in
+computer science, complemented by a portfolio showcasing web applications built for various clients. 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andres.choque23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreschoque23) 
