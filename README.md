@@ -5,10 +5,12 @@
 As a Software Engineer, I bring a passion for technology, business, travel, and leadership. With hands-on experience in software development, with CyberZek and private clients, I've delivered impactful designs and web applications 💻📱. My journey has taken me across the Middle East, South America, and North America, providing a rich perspective. Fluent in both Spanish and English. I hold a bachelor's degree in
 computer science, complemented by a portfolio showcasing web applications built for various clients. 
 
-Visit Webite here [Andres Choque](https://andreschoque.com)
+Visit my webite here: [Andres Choque](https://andreschoque.com)
+
+Learn how I built the website here: [Website Blueprint](https://github.com/andreschoque3/Personal-Website)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andres.choque23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreschoque23/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/andres_choque23) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/andres.choque23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/andreschoque23/) [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/andres_choque23) 
 </p>
 
 ## 💻 Languages and Tools:
